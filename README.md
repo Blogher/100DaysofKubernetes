@@ -1,1 +1,1 @@
-# -100DaysofKubernetes
+# 100DaysofKubernetes
